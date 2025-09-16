@@ -14,4 +14,6 @@ elif op == '/':
     else:
         print("impossível realizar uma divisão por 0")
 else:
-    print("Operação inválida! \nNecessário escolher uma das operações disponíveis: | + | - | * | / |")
+    print("Operação inválida! "
+          "\nNecessário escolher uma das operações "
+          "disponíveis: | + | - | * | / |")
