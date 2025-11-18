@@ -1,0 +1,6 @@
+Nome | Ralph
+Nota_1 | 2.00
+Nota_2 | 2.00
+Nota_3 | 3.00
+Média | 2.33
+status_aluno | REPROVADO
