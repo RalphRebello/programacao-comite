@@ -42,7 +42,6 @@ def obtem_info():
 
 
 def main():
-
     aluno = obtem_info()
     calcular_boletim(aluno)
 
