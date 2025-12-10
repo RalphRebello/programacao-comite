@@ -1,3 +1,6 @@
+from abc import ABC, abstractmethod
+
+
 def obtem_operacao():
     n1, op, n2 = input('Insira a conta -> ')
     return n1, op, n2
