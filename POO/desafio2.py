@@ -69,7 +69,7 @@ def main():
     mago = Mago("Gandalf", vida=80, ataque=15)
 
     # Iniciar batalha
-    vencedor = guerreiro.batalhar(mago)
+    vencedor = mago.batalhar(guerreiro)
 
     print("\n===============================")
     print(f"🔥 VENCEDOR FINAL: {vencedor.nome}")
